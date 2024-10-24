@@ -58,11 +58,11 @@ In each group we produce an artifact. An artifact can be document, file, executa
 
 ## Knowledge Areas organize the processes
 
-![](./Knowledgeareasprocess.png)
+![](./images/Knowledgeareasprocess.png)
 
 ## Project Integration Management
 
-![](./IntegrationManagement.png)
+![](./images/IntegrationManagement.png)
 
 - Set up a Project Charter
 - Conduct Project Execution
@@ -87,6 +87,25 @@ In each group we produce an artifact. An artifact can be document, file, executa
 - After you're done planning, it's time to do the work. 
 - Your job is to make sure that everybody is doing what they should be doing, and that the products or services your project creates meet the needs of the stakeholders.
 
-### 
+### Monitor and Control Project Work
 
+- A good project manager is constantly monitoring every single thing that goes on in the project.
+- Perform Integrated Change Control Once you've found problems on your project, you've got to work with
+your stakeholders and sponsors to figure out how to deal with those problems.
+- You should also update your project management plan to reflect any extra steps you'll need to take to complete the project.
+- Updating the project management plan also makes sure everyone working on the project stays on the same page.
 
+### Close Project or Phase
+
+- The last thing you do on the project is close it out.
+- Make sure you document everything. (the lessons you and your team have learned along the way).
+
+## Questions
+
+1. What is project charter?
+2. What's inside in a project charter?
+3. What is a project management plan, explain
+4. What you mean by direct and manage project execution?
+5. How project changes reflected on the project?
+6. How a project manager manage such changes?
+7. What are the main activities carried out during the project closure?
