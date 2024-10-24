@@ -1,3 +1,5 @@
+*2024-10-24*
+
 ## Project Constraints - bounded inside these limits
 
 - Scope - limit of the system?
@@ -49,8 +51,42 @@ In each group we produce an artifact. An artifact can be document, file, executa
 
 4. 
 - KPI tracking 
+- ?
 
+5. 
+?
 
+## Knowledge Areas organize the processes
 
+![](./Knowledgeareasprocess.png)
+
+## Project Integration Management
+
+![](./IntegrationManagement.png)
+
+- Set up a Project Charter
+- Conduct Project Execution
+- Incorporate Change Control
+- Establish a Project / Management Plan
+- Monitor and Control Project Work
+- Close the Project
+
+### Develop Project Charter
+
+- The very first thing that's done on a new project is the development of the project charter. 
+- That's the document that authorizes you to do your work. But you're not always involved in making it
+- oftentimes it's handed to you by the sponsor.
+
+### Develop Project Management Plan
+
+- The project management plan is the most important document in the entire PMBOK® Guide. because it guides everything that happens on the project.
+- It spans all of the knowledge areas.
+
+### Direct and Manage Project Execution
+
+- After you're done planning, it's time to do the work. 
+- Your job is to make sure that everybody is doing what they should be doing, and that the products or services your project creates meet the needs of the stakeholders.
+
+### 
 
 
