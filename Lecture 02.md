@@ -1,5 +1,5 @@
 *2024-10-24*
-
+# Project Management / Scrum
 ## Project Constraints - bounded inside these limits
 
 - Scope - limit of the system?
@@ -108,4 +108,11 @@ your stakeholders and sponsors to figure out how to deal with those problems.
 4. What you mean by direct and manage project execution?
 5. How project changes reflected on the project?
 6. How a project manager manage such changes?
+    - take actions accordingly. 
+    - manage within the budget. 
+    - arrange meetings.
 7. What are the main activities carried out during the project closure?
+    - See whether meet expectation with the stakeholder.
+    - Deploy the app.
+    - Documentation.
+    - User training. 
