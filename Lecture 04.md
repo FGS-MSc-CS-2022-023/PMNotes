@@ -98,3 +98,15 @@ B & C can be run parallel.
 Critical path = ABD = 7 days
 
 Consider every path, take longest path.
+
+## Questions
+
+- What you mean by activity attributes?
+- What is milestone list?
+- What you mean by a resource calendar explain.
+- What are different estimation techniques explaineach.
+- What you mean by critical path method?
+- What you mean by float for activities?
+- Draw a network diagram for your wedding
+- Project and find the critical path. (you may use
+activity estimation values as wish)
