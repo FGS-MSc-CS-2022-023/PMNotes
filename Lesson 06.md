@@ -11,7 +11,7 @@ schedule, use SPIs. The key to using this is that when you're ahead of schedule,
 you've earned more value than planned! So EV will be bigger than PV. To work
 out your SPI, you just divide your EV by your PV.
 
-$SPI = EV/PV$
+$SPI = \frac{EV}{PV}$
 
 If SPI is greater than
 one, that means EV is
@@ -39,7 +39,7 @@ you exactly how may dollars you've
 ahead If it's negative, it tells you how
 many dollars you're behind.
 
-$ SV = EV - PV $
+$SV = EV - PV$
 
 ## Are you over budget?
 
@@ -48,7 +48,7 @@ $ SV = EV - PV $
 If you want to know whether you're over or under
 budget, use CPI.
 
-$ CPI = EV/AC $
+$CPI = \frac{EV}{AC} $
 
 CPI is greater than or equal to 1 and CV is positive. When this happens, your actual
 costs are less than Earned Value, which means the project is delivering more
@@ -60,7 +60,7 @@ This tells you the difference between what you planned on
 spending and what you actually spent. So, if you want to know how much under or
 over budget you are, just take AC away from EV.
 
-$ CV = EV - AC $ ( AC - Actual cost?)
+$CV = EV - AC$ ( AC - Actual cost?)
 
 Remember what CV means to the sponsor
 EV says how much of the total value of
@@ -73,7 +73,7 @@ good value for his money-
 This tells you how well your project will need
 to perform to stay on budget.
 
-$ TCPI = (BAC-EV) / (BAC-AC) $
+$TCPI = \frac{(BAC-EV)}{(BAC-AC)}$
 
 ![](./images/L6_cost_formula_summary.png)
 
