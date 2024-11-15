@@ -11,7 +11,7 @@ schedule, use SPIs. The key to using this is that when you're ahead of schedule,
 you've earned more value than planned! So EV will be bigger than PV. To work
 out your SPI, you just divide your EV by your PV.
 
-$ SPI = EV/PV $
+$SPI = EV/PV$
 
 If SPI is greater than
 one, that means EV is
@@ -93,3 +93,58 @@ have installed 50 windows by now, but they only installed 40. Can you figure out
 complete?
 
 - What should the Earned Value be right now?
+
+# Quality Management
+
+## What is Quality?
+
+**Quality is the measurement of how closely your product meets its requirements.**
+
+- **Customer satisfaction** is about making sure that the people who are paying for the
+end product are happy with what they get. When the team gathers requirements for the
+specification, they try to write down all of the things that the customers want in the
+product so that you know how to make them happy. Some requirements can be left
+unstated, too. Those are the ones that are implied by the customer's explicit needs. In
+the end, if you fulfill all of your requirements, your customers should be really satisfied.
+
+- **Fitness for use** is about making sure that the product you build has the best design
+possible to fit the customer's needs. Which would you choose: a product that's
+beautifully designed, well constructed, solidly built, and all-around pleasant to look at
+but does not do what you need, or a product that does what you want despite being
+really ugly to look at and a pain in the butt to work with? You'll always choose the
+product that fits your needs, even if it's seriously limited. That's why it's important that
+the product both does what it is supposed to do and does it well.
+
+- **Conformance to requirements** is the core of **both customer satisfaction and fitness**
+for use. Above all, your product needs to do what you wrote down in your
+requirements specification. Your requirements should take into account both what will
+
+## Quality vs. grade
+
+You can eat a lobster platter for dinner, or you can eat a hot dog. They are both types of
+food, right? But they have very different tastes, looks, feels, and most importantly, cost. If you
+order the lobster in a restaurant, you'll be charged a lot more than if you order a hot dog. But
+that doesn't mean the lobster is a higher-quality meal. If you'd ordered a salad and got lobster
+or a hot dog instead, you wouldn't be satisfied.
+
+chatgpt:
+
+![](./images/L6_grading.png)
+
+Key Takeaways:
+Quality ensures that the product/service is fit for use and meets requirements, while grading compares items and categorizes them based on their attributes.
+A high-grade item may not necessarily have high quality if it doesn't meet intended use, and vice versa.
+
+## Quality Management processes (3 processes)
+
+**Plan Quality** is like the other planning processes you've learned about-you create a
+Quality Management Plan to help guide you and your team through quality
+activities.
+
+**Perform Quality Control** is the Monitoring & Controlling process where you look at
+each deliverable and inspect it for defects.
+
+**Perform Quality Assurance** is where you take a step back and look at how well
+your project fits in with your company's overall quality standards and guidelines.
+
+When it comes to defects, prevention is always better than inspection!
