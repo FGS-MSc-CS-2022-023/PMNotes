@@ -148,3 +148,62 @@ each deliverable and inspect it for defects.
 your project fits in with your company's overall quality standards and guidelines.
 
 When it comes to defects, prevention is always better than inspection!
+
+## How to plan for quality
+
+- **Cost-benefit analysis** -is looking at how much your quality activities will cost versus how
+much you will gain from doing them. The costs are easy to measure; the effort and
+resources it takes to do them are just like any other task on your schedule. Since
+quality activities don't actually produce a product, though, it is harder for people to
+measure the benefits sometimes. The main benefits are less rework, higher
+productivity and efficiency, and more satisfaction
+
+- **Benchmarking** - means using the results of Plan Quality on other projects to set goals for
+your own. You might find that the last project your company did had 20% fewer
+defects than the one before it. You would want to learn from a project like that and
+put in practice any of the ideas they used to make such a great improvement.
+Benchmarks can give you some reference points for judging your own project
+before you even get started with the work.
+
+- **Design of experiments** - is where you apply the scientific method to create a set of
+tests for your project's deliverables. It's a statistical method, which means you use
+statistics to analyze the results of your experiments to determine how your
+deliverables best meet the requirements. A lot of quality managers use this
+technique to produce a list of tests that they'll run on the deliverables, so they have
+data to analyze later.
+
+## How to plan for quality
+
+- **Flowcharting** means coming up with a graphical depiction of the the process you're doing so
+that you can anticipate where quality activities might help you prevent defects.
+
+- **Control charts** are used to figure out which processes in your company might be having
+quality problems. They're used for measuring the performance of activities that are done
+over and over.
+
+- **Properietary techniques** are process frameworks and methodologies that project
+managers use to improve quality.
+
+- **Cost of quality** is what you get when you add up the cost of all of the prevention and
+inspection activities you are going to do on your project. It doesn't just include the testing. It
+includes any time spent writing standards, reviewing documents, meeting to analyze the root
+causes of defects, rework to fix the defects once they're found by the team-absolutely
+everything you do to ensure quality on the project.
+
+- **Statistical sampling** is when you look at a representative sample of something to make
+decisions. For example, you might take a look at a selection of widgets produced in a factory
+to figure out which quality activites would help you prevent defects in them.
+
+Note : The Quality Management Plan is the main tool for preventing defects on your
+project.
+
+## Questions
+
+![](./images/L6_Q1.png)
+
+1. Machines
+2. Workers
+3. 90%
+
+![](./images/L6_Q2.png)
+
