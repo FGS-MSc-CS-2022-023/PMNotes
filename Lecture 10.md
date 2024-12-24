@@ -65,7 +65,7 @@ do the work.
 
 ## Types of contracts detailed
 
-### Fixed price contracts
+### 1. Fixed price contracts
 
 **Fixed price (FP)** means that you are going to pay one amount regardless of how much it
 costs the contractor to do the work. A fixed price contract only makes sense in cases where
@@ -78,7 +78,7 @@ where the team **gets a $50,000 bonus if they manage to deliver an acceptable pr
 the contracted date**. If the fixed-price contract does not include a fee, it's often referred to as
 *a firm fixed price (FFP)* contract.
 
-### Cost-reimbursable contracts 
+### 2. Cost-reimbursable contracts 
 
 **Costs plus fixed fee (CPFF)** means what it says. You pay the seller back for the costs
 involved in doing the work, plus you agree to an amount that you will pay on top of that.
@@ -94,7 +94,7 @@ calls down to seven minutes per customer for over a month. If she were on a CPIF
 she would pay the team their costs for doing the work, and also the a $50,000 bonus when
 they met that goal.
 
-### Time and Materials
+### 3. Time and Materials
 
 **Time and Materials (T&M)** is used in labor contracts. It means that you will pay a rate for
 each of the people working on your project plus their materials costs. The "Time" part
@@ -104,3 +104,66 @@ space, administrative overhead costs, and anything else that has to be paid for.
 typically purchases those things and bills the buyer for them. This is a really good contract to
 use if you don't know exactly how long your contract will last, because it protects both the
 buyer and seller.
+
+### More about contracts
+
+#### Figure out how you'll sort out potential sellers
+
+- There are a bunch of different documents you might want to send to sellers who
+want to bid on your work. You'll usually include the **contract statement of work (SOW)** so
+that sellers know exactly what work is involved.
+
+- An **invitation for bid (IFB)** is a document that tells sellers that you want them to submit
+proposals. You'll also hear of people using **requests for information (RFI)** and
+**requests for proposals (RFP)**.
+
+- There's another kind of invitation-an **invitation for quote (IFQ)**. This is a way to tell sellers
+that you want them to give you a quote on a fixed-price contract to do the work.
+
+- A purchase order is something you'll send out to a seller who you know that you want to
+work with. It's an agreement to pay for certain goods or services.
+
+#### Decide in advance on how you want to select the sellers. 
+
+There are a lot of ways you can select a potential seller. Figuring out if a seller is appropriate for your
+work is something that takes a lot of talking and thinking-and there's no single,
+one-size-fits-all way of selecting sellers. But there are some things that you should
+definitely look for in any seller:
+
+- Can the seller actually do the work you need done?
+Howv much will the seller charge?
+
+- Can the seller cover any costs and expenses necessary to do the job?
+
+- Are there subcontractors involved that you need to know about?
+
+- Does the seller really understand everything in the SOW and contract?
+
+- Is the seller's project management capability up to the task?
+
+#### Pick a partner
+
+You've figured out what services you want to procure, and you've gone out
+and found a list of potential sellers. Now it's time to choose one of them to do the project
+work-and that's exactly what you do in Conduct Procurements
+
+- Internet Search: Companies will often use an Internet search to get in idea of the price range for
+the things they'll need to buy as part of the proposal. The more complex the procurement process,
+though, the less helpful this tool is.
+
+- **Advertising**: Sometimes the best way to get in touch with sellers is to place an ad. Also, sometimes
+you are required to take out an ad (like for some government-funded projects) in order to give all
+sellers full notice.
+
+- **Independent Estimates** A lot of the time, you don't have the expertise in your company to figure
+out whether or not a seller is quoting you a fair price. That's why you'll often turn to a third party to
+come up with an estimate of what the work should cost.
+
+- **Bidder Conferences**: It's really important that you make sure all of the bidders can compete in a
+fair, unbiased way. And the best way to do that is to get them all in a room together, so that they can
+ask questions about your contract. That way you don't give any one seller an advantage by providing
+inside information that the other sellers don't have access to.
+
+- **Expert Judgment**: Here's another case where it's really good to bring in someone from outside
+your project to help evaluate each proposal. You should bring in someone with a lot of specific
+expertise in the work being done to make sure the seller is up to the job.
